@@ -1,6 +1,6 @@
 #  [【Tampermonkey Script】LingHu's Collection Of Lightweight Plugins](https://github.com/linghu-zhe/my-plug.git)
-- [Add Red Underline To Hyperlink Hover](# Add Red Underline To Hyperlink Hover)
-- [Right Click To Clear Browser Cache](# Right Click To Clear Browser Cache)
+- [Add Red Underline To Hyperlink Hover](#Add%20Red%20Underline%20To%20Hyperlink%20Hover)
+- [Right Click To Clear Browser Cache](#Right%20Click%20To%20Clear%20Browser%20Cache)
 
 > Practice code to familiarize oneself with the process. More will gradually increase in the future!
 
