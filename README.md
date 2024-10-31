@@ -3,6 +3,7 @@
 > 
 >   - [Add Red Underline To Hyperlink Hover](#_1_1)
 >   - [Right Click To Clear Browser Cache](#_1_2)
+>   - [Right Click To Remove Page Elements](#_1_2)
 > 
 > 2.[Test Usage Environment](#_2)
 
@@ -23,7 +24,13 @@ Unlimited pages.
 Cookies only clear all caches of the current website.
 ```
 
+### <span id="_1_3">Right Click To Remove Page Elements</span>
+```bash
+Unlimited pages.
+Right click to remove page elements, refresh to restore.
+```
+
 ## <span id="_2">2.Test Usage Environment</span>
-Tampermonkey 4.18.1
+Tampermonkey v5.3.6216
 
 [Back To Top](#top)
